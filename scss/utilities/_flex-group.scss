@@ -6,3 +6,7 @@
   gap: var(--flex-gap, $flex-group-gap);
   width: fit-content;
 }
+
+.flex-group.mx-auto {
+  justify-content: center;
+}
